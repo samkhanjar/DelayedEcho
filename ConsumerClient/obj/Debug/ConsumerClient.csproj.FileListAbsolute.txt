@@ -1,0 +1,8 @@
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\bin\Debug\ConsumerClient.exe.config
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\bin\Debug\ConsumerClient.exe
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\bin\Debug\ConsumerClient.pdb
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\bin\Debug\DelayedEcho.dll
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\bin\Debug\DelayedEcho.pdb
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\obj\Debug\ConsumerClient.csprojResolveAssemblyReference.cache
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\obj\Debug\ConsumerClient.exe
+C:\Users\samkha0\Desktop\DelayedEcho\DelayedEcho\ConsumerClient\obj\Debug\ConsumerClient.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerClient", "ConsumerClient\ConsumerClient.csproj", "{73E42E9B-20BB-4D65-93EA-BD7046575A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelayedEcho", "DelayedEcho\DelayedEcho.csproj", "{B662C6B2-778D-4FDE-97CE-192527BF8E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E42E9B-20BB-4D65-93EA-BD7046575A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E42E9B-20BB-4D65-93EA-BD7046575A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E42E9B-20BB-4D65-93EA-BD7046575A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E42E9B-20BB-4D65-93EA-BD7046575A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B662C6B2-778D-4FDE-97CE-192527BF8E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B662C6B2-778D-4FDE-97CE-192527BF8E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B662C6B2-778D-4FDE-97CE-192527BF8E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B662C6B2-778D-4FDE-97CE-192527BF8E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
